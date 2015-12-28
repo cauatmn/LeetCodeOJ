@@ -18,11 +18,7 @@ class Solution(object):
 				if L[i] == L[s]:
 					
 		print len(L1)
-					
-			
-			
-		
-			
+							
 
 if __name__ == "__main__":
 	L = "12312321"
