@@ -24,6 +24,5 @@ if __name__ == "__main__":
 	L = "12312321"
 	Test = Solution()
 	Test.lengthOfLongestSubstring(L)
-	test.1232131321321
 	
 	
